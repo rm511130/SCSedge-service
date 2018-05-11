@@ -3,4 +3,4 @@
     - name: edge-service
       path: target/edge-service-0.0.1-SNAPSHOT.jar
       memory: 1G
-      random: true
+      random-route: true
